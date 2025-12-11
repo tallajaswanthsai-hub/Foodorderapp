@@ -5,36 +5,36 @@
 export const menu_list=[
      {
         menuname:"Tiffins",
-        menuimage:"./images/tiffins.png"
+        menuimage:"/Foodorderapp/images/tiffins.png"
     },
     {
         menuname:"Biryani",
-        menuimage:"./images/biryani.png"
+        menuimage:"/Foodorderapp/images/biryani.png"
     },
     
      {
         menuname:"Curry",
-        menuimage:"./images/currys.png"
+        menuimage:"/Foodorderapp/images/currys.png"
     },
       {
         menuname:"Burger",
-        menuimage:"./images/burger.jpg"
+        menuimage:"/Foodorderapp/images/burger.jpg"
     },
     {
         menuname:"Pizza",
-        menuimage:"./images/pizza.png"
+        menuimage:"/Foodorderapp/images/pizza.png"
     },
      {
         menuname:"Cakes",
-        menuimage:"./images/cakes.jpg"
+        menuimage:"/Foodorderapp/images/cakes.jpg"
     },
      {
         menuname:"Deserts",
-        menuimage:"./images/desert.png"
+        menuimage:"/Foodorderapp/images/desert.png"
     },
      {
         menuname:"Drinks",
-        menuimage:"./images/drinks.png"
+        menuimage:"/Foodorderapp/images/drinks.png"
     }
     
 ]
@@ -44,7 +44,7 @@ export const foodlist=[
 {
     id:"1",
     name:"Chicken Biryani",
-    image:"/images/chickenbiryani.jpg",
+    image:"/Foodorderapp/images/chickenbiryani.jpg",
     price:"200",
     description:"Hyderabad Famous biryani",
     category:"Biryani"
@@ -53,7 +53,7 @@ export const foodlist=[
 {
     id:"2",
     name:"Mutton Biryani",
-    image:"/images/muttonbiryani.avif",
+    image:"/Foodorderapp/images/muttonbiryani.avif",
     price:"250",
     description:"Hyderabad Famous biryani",
     category:"Biryani"
@@ -62,7 +62,7 @@ export const foodlist=[
 {
     id:"3",
     name:"Prawns Biryani",
-    image:"/images/prawnsbiryani.png",
+    image:"/Foodorderapp/images/prawnsbiryani.png",
     price:"220",
     description:"Hyderabad Famous biryani",
     category:"Biryani"
@@ -71,7 +71,7 @@ export const foodlist=[
 {
     id:"4",
     name:"Panner Biryani",
-    image:"/images/pannerbiryani.webp",
+    image:"/Foodorderapp/images/pannerbiryani.webp",
     price:"200",
     description:"Hyderabad Famous biryani",
     category:"Biryani"
@@ -80,7 +80,7 @@ export const foodlist=[
 {
     id:"5",
     name:"Chicken 65 Biryani",
-    image:"/images/chicken65biryani.avif",
+    image:"/Foodorderapp/images/chicken65biryani.avif",
     price:"180",
     description:"Hyderabad Famous biryani",
     category:"Biryani"
@@ -89,7 +89,7 @@ export const foodlist=[
 {
     id:"6",
     name:"Fish Biryani",
-    image:"/images/fishbiryani.webp",
+    image:"/Foodorderapp/images/fishbiryani.webp",
     price:"250",
     description:"Hyderabad Famous biryani",
     category:"Biryani"
@@ -98,7 +98,7 @@ export const foodlist=[
 {
     id:"7",
     name:"Veg Biryani",
-    image:"/images/vegbiryani.png",
+    image:"/Foodorderapp/images/vegbiryani.png",
     price:"150",
     description:"Hyderabad Famous biryani",
     category:"Biryani"
@@ -107,7 +107,7 @@ export const foodlist=[
 {
     id:"8",
     name:"Idli",
-    image:"/images/idli.avif",
+    image:"/Foodorderapp/images/idli.avif",
     price:"40",
     description:"healthy idli",
     category:"Tiffins"
@@ -116,7 +116,7 @@ export const foodlist=[
 {
     id:"9",
     name:"Dosa",
-    image:"/images/dosa.jpeg",
+    image:"/Foodorderapp/images/dosa.jpeg",
     price:"50",
     description:"masala dosa",
     category:"Tiffins"
@@ -125,7 +125,7 @@ export const foodlist=[
 {
     id:"10",
     name:"Voda",
-    image:"/images/voda.avif",
+    image:"/Foodorderapp/images/voda.avif",
     price:"50",
     description:"Delicious Voda",
     category:"Tiffins"
@@ -134,7 +134,7 @@ export const foodlist=[
 {
     id:"11",
     name:"Bonda",
-    image:"/images/bonda.avif",
+    image:"/Foodorderapp/images/bonda.avif",
     price:"40",
     description:"Spongy Bonda",
     category:"Tiffins"
@@ -143,7 +143,7 @@ export const foodlist=[
 {
     id:"12",
     name:"Upma",
-    image:"/images/upma.jpg",
+    image:"/Foodorderapp/images/upma.jpg",
     price:"40",
     description:"Delicious upma",
     category:"Tiffins"
@@ -152,7 +152,7 @@ export const foodlist=[
 {
     id:"13",
     name:"Puri",
-    image:"/images/puri.avif",
+    image:"/Foodorderapp/images/puri.avif",
     price:"60",
     description:"Delicious puri",
     category:"Tiffins"
@@ -161,7 +161,7 @@ export const foodlist=[
 {
     id:"14",
     name:"Chicken curry",
-    image:"/images/chickencurry.jpg",
+    image:"/Foodorderapp/images/chickencurry.jpg",
     price:"150",
     description:" spicy Chickencurry ",
     category:"Curry"
@@ -170,7 +170,7 @@ export const foodlist=[
 {
     id:"15",
     name:"Mutton curry",
-    image:"/images/muttoncurry.jpeg",
+    image:"/Foodorderapp/images/muttoncurry.jpeg",
     price:"200",
     description:"Tasty muttoncurry",
     category:"Curry"
@@ -179,7 +179,7 @@ export const foodlist=[
 {
     id:"16",
     name:"Prawns curry",
-    image:"/images/prawnscurry.jpg",
+    image:"/Foodorderapp/images/prawnscurry.jpg",
     price:"250",
     description:"Tasty prawnscurry",
     category:"Curry"
@@ -188,7 +188,7 @@ export const foodlist=[
 {
     id:"17",
     name:"Fish curry",
-    image:"/images/fishcurry.jpg",
+    image:"/Foodorderapp/images/fishcurry.jpg",
     price:"200",
     description:"Famous fishcurry",
     category:"Curry"
@@ -197,7 +197,7 @@ export const foodlist=[
 {
     id:"18",
     name:"basic pizza",
-    image:"/images/pizza1.avif",
+    image:"/Foodorderapp/images/pizza1.avif",
     price:"200",
     description:"Tasty pizza",
     category:"Pizza"
@@ -206,7 +206,7 @@ export const foodlist=[
 {
     id:"19",
     name:"Cheese pizza",
-    image:"/images/pizza3.jpg",
+    image:"/Foodorderapp/images/pizza3.jpg",
     price:"300",
     description:"Chessy one",
     category:"Pizza"
@@ -215,7 +215,7 @@ export const foodlist=[
 {
     id:"20",
     name:"Chicken pizza",
-    image:"/images/pizza4.webp",
+    image:"/Foodorderapp/images/pizza4.webp",
     price:"250",
     description:"non-veg pizza",
     category:"Pizza"
@@ -225,7 +225,7 @@ export const foodlist=[
 {
     id:"21",
     name:"chicken burger",
-    image:"/images/chickenburger.jpg",
+    image:"/Foodorderapp/images/chickenburger.jpg",
     price:"130",
     description:"non-veg",
     category:"Burger"
@@ -234,7 +234,7 @@ export const foodlist=[
 {
     id:"22",
     name:"veg burger",
-    image:"/images/vegburger.avif",
+    image:"/Foodorderapp/images/vegburger.avif",
     price:"100",
     description:"veg",
     category:"Burger"
@@ -243,7 +243,7 @@ export const foodlist=[
 {
     id:"23",
     name:"cheese burger",
-    image:"/images/cheeseburger.jpeg",
+    image:"/Foodorderapp/images/cheeseburger.jpeg",
     price:"150",
     description:"non-veg",
     category:"Burger"
@@ -252,7 +252,7 @@ export const foodlist=[
 {
     id:"24",
     name:"chocolate cake",
-    image:"/images/cake1.webp",
+    image:"/Foodorderapp/images/cake1.webp",
     price:"400",
     description:"eggless",
     category:"Cakes"
@@ -261,7 +261,7 @@ export const foodlist=[
 {
     id:"25",
     name:"straberry cake",
-    image:"/images/cake2.jpeg",
+    image:"/Foodorderapp/images/cake2.jpeg",
     price:"450",
     description:"egg used!",
     category:"Cakes"
@@ -270,7 +270,7 @@ export const foodlist=[
 {
     id:"26",
     name:"blakcforest cake",
-    image:"/images/cake3.jpeg",
+    image:"/Foodorderapp/images/cake3.jpeg",
     price:"600",
     description:"fast selling cake",
     category:"Cakes"
@@ -279,7 +279,7 @@ export const foodlist=[
 {
     id:"27",
     name:"Mojito",
-    image:"/images/mojito.jpg",
+    image:"/Foodorderapp/images/mojito.jpg",
     price:"120",
     description:"Drink for freshness",
     category:"Drinks"
@@ -288,7 +288,7 @@ export const foodlist=[
 {
     id:"28",
     name:"Chocolate icecream",
-    image:"/images/chockletc icecreame.jpg",
+    image:"/Foodorderapp/images/chockletc icecreame.jpg",
     price:"70",
     description:"2 scoops",
     category:"Deserts"
@@ -297,7 +297,7 @@ export const foodlist=[
 {
     id:"29",
     name:"Cream Cake",
-    image:"/images/creamcake.jpeg",
+    image:"/Foodorderapp/images/creamcake.jpeg",
     price:"90",
     description:"softy cake",
     category:"Deserts"
@@ -306,7 +306,7 @@ export const foodlist=[
 {
     id:"30",
     name:"Gulabjam",
-    image:"/images/gulabjamun.jpeg",
+    image:"/Foodorderapp/images/gulabjamun.jpeg",
     price:"70",
     description:"3 gulabjamun",
     category:"Deserts"
@@ -315,7 +315,7 @@ export const foodlist=[
 {
     id:"31",
     name:"Straberry icecream",
-    image:"/images/strawberryicecreame.jpg",
+    image:"/Foodorderapp/images/strawberryicecreame.jpg",
     price:"70",
     description:"2 scoops",
     category:"Deserts"
@@ -324,7 +324,7 @@ export const foodlist=[
 {
     id:"32",
     name:"Venila icecream",
-    image:"/images/venilaicecreame.webp",
+    image:"/Foodorderapp/images/venilaicecreame.webp",
     price:"70",
     description:"2 scoops",
     category:"Deserts"
@@ -333,7 +333,7 @@ export const foodlist=[
 {
     id:"33",
     name:"Cupcake",
-    image:"/images/cupcake.png",
+    image:"/Foodorderapp/images/cupcake.png",
     price:"50",
     description:"2 cakes",
     category:"Deserts"
@@ -342,7 +342,7 @@ export const foodlist=[
 {
     id:"34",
     name:"Thumbs up",
-    image:"/images/thumpsup.jpg",
+    image:"/Foodorderapp/images/thumpsup.jpg",
     price:"50",
     description:"Softdrink",
     category:"Drinks"
@@ -351,7 +351,7 @@ export const foodlist=[
 {
     id:"35",
     name:"Sprite",
-    image:"/images/sprite.jpeg",
+    image:"/Foodorderapp/images/sprite.jpeg",
     price:"50",
     description:"Softdrink",
     category:"Drinks"
@@ -361,7 +361,7 @@ export const foodlist=[
 {
     id:"36",
     name:"Mirinda",
-    image:"/images/mirinda.jpeg",
+    image:"/Foodorderapp/images/mirinda.jpeg",
     price:"50",
     description:"Softdrink",
     category:"Drinks"
@@ -370,7 +370,7 @@ export const foodlist=[
 {
     id:"37",
     name:"Redbull",
-    image:"/images/redbull.jpg",
+    image:"/Foodorderapp/images/redbull.jpg",
     price:"125",
     description:"Softdrink",
     category:"Drinks"
@@ -379,7 +379,7 @@ export const foodlist=[
 {
     id:"38",
     name:"water",
-    image:"/images/water.jpeg",
+    image:"/Foodorderapp/images/water.jpeg",
     price:"20",
     description:"pure water",
     category:"Drinks"

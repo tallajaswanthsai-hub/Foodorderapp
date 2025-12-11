@@ -10,7 +10,7 @@ import { BrowserRouter } from 'react-router-dom';
 createRoot(document.getElementById('root')).render(
 
   <StoreContextProvider>
-    <BrowserRouter>
+    <BrowserRouter basename="/Foodorderapp">
     <App/>
     </BrowserRouter>
   </StoreContextProvider>
