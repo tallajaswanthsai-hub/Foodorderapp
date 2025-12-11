@@ -1,0 +1,48 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+*{
+    font-family: outfit;
+}
+
+
+@import "tailwindcss";
+
+
+button:active{
+    scale:0.9;
+    transition: 0.5s;
+  
+    
+}
+
+
+.animation{
+    animation: fadein 2s ;
+}
+
+@keyframes fadein {
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+    }
+    
+}
+
+#active{
+    border: 5px solid rgb(255, 106, 0);
+    
+}
+
+
+.s::-webkit-scrollbar{
+    display: none;
+}
+
+
+.cart-item{
+    grid-template-columns: 1fr 1.5fr 1fr 1fr 1fr 0.5fr;
+}
